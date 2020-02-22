@@ -1,5 +1,6 @@
 ---
 sidebar: auto
+next: /instalacion/
 ---
 # Bienvenid@
 Para ti que vienes por primera vez, bienvenid@! y para ti que ya has venido a alguno de nuestros talleres o quizas a varios, que gusto verte de nuevo. Este taller es un poco mas avanzado por lo cual debiste haber sido contactad@ y debes tener ya instaladas las herramientas suficientes para poder hoy realizar todo el taller. Instalar todo esto no ha sido facil, te felicitamos por tu constancia en el proceso. Esperamos hoy aprendas mucho y como siempre quedes con una inmensa curiosidad para querer aprender y practicar por tu cuenta, iniciemos.
@@ -32,5 +33,3 @@ Donde < elementoHTML > es la etiqueta de apertura y < /elementoHTML >. Aunque la
 ✔️ Antes de pasar al siguiente desafío daremos una explicación sobre la realización del mismo, no dudes en preguntar, de eso se trata.
 
 ✔️ Aplicamos un código de conducta que en resumidas cuentas consiste en que "te portes como la buena persona que tu mamá cree que tu eres".   Si te sientes incomoda  por el comportamiento de alguien por favor dinos,  nuestro mayor objetivo es crear un espacio seguro para ti.
-
-Continua con [Instalacion](../instalacion/).
