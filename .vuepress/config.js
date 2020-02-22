@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/template2020_2/',
+  base: '/template2020/',
   dest: 'docs',
   title: 'Vue.js Colombia',
   description: ' ',
