@@ -72,3 +72,4 @@ Iniciemos creando
 vue create NOMBREDELPROYECTO
 ```
 
+Continua con [Desafíos](../desafio1/vue-cli/).

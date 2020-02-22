@@ -6,7 +6,8 @@ module.exports = {
   themeConfig: {
     nav: [
       { text:'Bienvenid@', link: '/bienvenid@/' },
-      { text:'Instalacion', link: '/instalacion/' },
+			{ text:'Instalacion', link: '/instalacion/' },
+			{ text:'Desafíos', link: '/desafio1/vue-cli' },
       { text: 'GitHub', link: 'https://github.com/vuejs-colombia' }
     ],
 		sidebar: [

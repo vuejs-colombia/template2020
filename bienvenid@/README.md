@@ -32,3 +32,5 @@ Donde < elementoHTML > es la etiqueta de apertura y < /elementoHTML >. Aunque la
 ✔️ Antes de pasar al siguiente desafío daremos una explicación sobre la realización del mismo, no dudes en preguntar, de eso se trata.
 
 ✔️ Aplicamos un código de conducta que en resumidas cuentas consiste en que "te portes como la buena persona que tu mamá cree que tu eres".   Si te sientes incomoda  por el comportamiento de alguien por favor dinos,  nuestro mayor objetivo es crear un espacio seguro para ti.
+
+Continua con [Instalacion](../instalacion/).
