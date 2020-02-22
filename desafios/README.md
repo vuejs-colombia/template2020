@@ -1,5 +1,5 @@
 ---
-next: ./desafio1/vue-cli
+next: ./desafio-1/vue-cli
 ---
 
 # Desafios

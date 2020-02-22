@@ -5,7 +5,7 @@ next: /desafios/
 --- 
 
 
-# Instalacion
+# Instalación
 
 Para poder aprovechar el tiempo que tenemos para desarrolles el taller, es necesario que previamente hayas hecho la instalacion de algunas herramientas. Si este no es el caso, te guiaremos para que puedas instalar en este momento todo.
 
